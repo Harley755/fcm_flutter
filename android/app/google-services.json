@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248056910217",
+    "project_id": "sendnotificationapp-9e9f5",
+    "storage_bucket": "sendnotificationapp-9e9f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248056910217:android:33ce6c1541065fb7999158",
+        "android_client_info": {
+          "package_name": "com.example.fcm_flutter_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9aYwOSXY2Skt_LltH3ToJiVw9cmxGSCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
